@@ -7,6 +7,9 @@
         "pièce": "room",
         "port": "port",
         "type": "type",
-        "vrai": "true"
+        "vrai": "true",
+        "objectif": "target",
+        "RSSI": "RSSI",
+        "beau": "nice"
     }
 }
